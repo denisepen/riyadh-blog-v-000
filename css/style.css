@@ -7,7 +7,7 @@ html, body {
 
 body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: length;
+  background-size: 75% 100%;
   background-attachment: fixed;
   background-position: center;
   font-family: Helvetica, Arial, sans-serif;
